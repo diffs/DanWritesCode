@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Daniel
 
 - 🗺 Ontario, Canada
-- 🎓 Currently studying: Software Engineering
 - 💻 Experienced backend & full-stack developer
 
 ### 🛠 Tools & Technologies:
